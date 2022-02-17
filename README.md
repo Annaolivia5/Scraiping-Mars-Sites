@@ -1,4 +1,4 @@
-# web-scraping-challenge
+# Web Scraiping Mars Sites
 In this project, information about mars was scraped from 3 different websites. 
 
 1. Mars News Site: https://redplanetscience.com/
