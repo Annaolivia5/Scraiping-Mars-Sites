@@ -8,7 +8,7 @@ In this project, information about mars was scraped from 3 different websites.
 
 Then a flask was used to display the scraped information on a single page. 
 
-The data scraped is stored in a MongoDB. Then the data is retrieved from the database and displayed using HTML, Jinja, and Bootstrap in a chrome web browser.
+The data scraped is stored in a MongoDB. Then the data is retrieved from the database and displayed using HTML, and Bootstrap in a chrome web browser.
 
 This is a screenshot of the final flask app:
 
